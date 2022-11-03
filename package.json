@@ -1,6 +1,6 @@
 {
   "name": "homebridge-tuya-platform-feeder",
-  "version": "1.0",
+  "version": "1.0.0",
   "description": "Adds Pet Feeder accessories to the official Homebridge plugin for Tuya Open API",
   "main": "index.js",
   "scripts": {
