@@ -1,0 +1,8 @@
+{
+    "result":{
+        "devices":[
+            {"active_time":1667448434,"biz_type":18,"category":"cwwsq","create_time":1667448434,"icon":"smart/icon/bay15953254745298oj3/08b8753c8c619e35a4cf6736f5f327bb.png","id":"eba6669eecb2dff4aa6zbr","ip":"223.218.180.75","lat":"35.6590","local_key":"9f08f5cd20389623","lon":"139.6607","model":"S36","name":"Smart feeder","online":true,"owner_id":"86626499","product_id":"qqzpxhisd6zs8zyq","product_name":"海龙喂食器S36","status":[{"code":"meal_plan","value":"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"},
+            {"code":"manual_feed","value":1},{"code":"slow_feed","value":false},{"code":"voice_times","value":0}],
+        "sub":false,"time_zone":"+09:00","uid":"az1667448182997bMLON","update_time":1667450982,"uuid":"536e8b035212005f"}],"has_more":false,"last_row_key":"A9C6EB07849858E8767405F3C6F3E598","total":1
+        },"success":true,"t":1667454446435,"tid":"ff1164255b3a11eda761b2ff20907124"
+}
